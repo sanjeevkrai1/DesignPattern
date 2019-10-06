@@ -1,4 +1,4 @@
-package com.desing.pattern.singleton;
+package com.design.pattern.singleton;
 
 public class StaticBlockSingleton {
 	
