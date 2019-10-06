@@ -5,7 +5,7 @@ A design pattern systematically names, motivates, and explains a general design 
 It describes the problem, the solution, when to apply the solution, and its consequences. 
 It also gives implementation hints and examples.
 
-I have attached doc folder with explation of some of design pattern with example.
+I have attached doc folder inside DesingPattern/  with explation of some of design pattern with example.
 
 1- SOLID Principal
 2- Singleton design
